@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.59a5e434.chunk.css",
-    "main.js": "/static/js/main.6c73a47c.chunk.js",
+    "main.js": "/static/js/main.a8159108.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.7bf718b4.js",
-    "static/js/2.b505c781.chunk.js": "/static/js/2.b505c781.chunk.js",
+    "static/js/2.e107b26d.chunk.js": "/static/js/2.e107b26d.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.b505c781.chunk.js.LICENSE.txt": "/static/js/2.b505c781.chunk.js.LICENSE.txt",
+    "static/js/2.e107b26d.chunk.js.LICENSE.txt": "/static/js/2.e107b26d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/TitilliumWeb-Regular.522ebad2.ttf",
     "static/media/getFetch.cjs": "/static/media/getFetch.d7d6010d.cjs",
+    "static/media/kinetic.676bc33b.svg": "/static/media/kinetic.676bc33b.svg",
     "static/media/logo.4778a996.svg": "/static/media/logo.4778a996.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7bf718b4.js",
-    "static/js/2.b505c781.chunk.js",
+    "static/js/2.e107b26d.chunk.js",
     "static/css/main.59a5e434.chunk.css",
-    "static/js/main.6c73a47c.chunk.js"
+    "static/js/main.a8159108.chunk.js"
   ]
 }
