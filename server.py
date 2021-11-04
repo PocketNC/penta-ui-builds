@@ -5,7 +5,7 @@ import socketserver
 
 class NoCachingIndexRequestHandler(http.server.SimpleHTTPRequestHandler):
   def end_headers(self):
-    if self.path == "/index.html":
+    if self.path == "/index.html" or self.path == "/":
       self.send_header("Cache-Control", "max-age=0, no-cache, no-store, must-revalidate")
       self.send_header("Pragma", "no-cache")
       self.send_header("Expires", "0")
