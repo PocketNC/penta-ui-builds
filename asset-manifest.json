@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.59a5e434.chunk.css",
-    "main.js": "/static/js/main.f99070e6.chunk.js",
-    "main.js.map": "/static/js/main.f99070e6.chunk.js.map",
+    "main.js": "/static/js/main.b00cba4d.chunk.js",
+    "main.js.map": "/static/js/main.b00cba4d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.54a659ab.js",
     "runtime-main.js.map": "/static/js/runtime-main.54a659ab.js.map",
     "static/js/2.06a5b29f.chunk.js": "/static/js/2.06a5b29f.chunk.js",
@@ -13,12 +13,12 @@
     "static/media/App.css": "/static/media/TitilliumWeb-Regular.522ebad2.ttf",
     "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
     "static/media/kinetic.676bc33b.svg": "/static/media/kinetic.676bc33b.svg",
-    "static/media/logo.4778a996.svg": "/static/media/logo.4778a996.svg"
+    "static/media/logo.3b25268d.svg": "/static/media/logo.3b25268d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.54a659ab.js",
     "static/js/2.06a5b29f.chunk.js",
     "static/css/main.59a5e434.chunk.css",
-    "static/js/main.f99070e6.chunk.js"
+    "static/js/main.b00cba4d.chunk.js"
   ]
 }
