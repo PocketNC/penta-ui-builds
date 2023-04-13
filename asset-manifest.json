@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.59a5e434.chunk.css",
-    "main.js": "/static/js/main.714e1180.chunk.js",
-    "main.js.map": "/static/js/main.714e1180.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.648af05e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.648af05e.js.map",
-    "static/js/2.2dc5b965.chunk.js": "/static/js/2.2dc5b965.chunk.js",
-    "static/js/2.2dc5b965.chunk.js.map": "/static/js/2.2dc5b965.chunk.js.map",
+    "main.css": "/static/css/main.89a47623.css",
+    "main.js": "/static/js/main.1e1a81f4.js",
+    "static/js/888.d6821cc2.chunk.js": "/static/js/888.d6821cc2.chunk.js",
+    "static/js/838.3391fd5d.chunk.js": "/static/js/838.3391fd5d.chunk.js",
+    "static/media/Montserrat-BlackItalic.ttf": "/static/media/Montserrat-BlackItalic.4404f7c61ef37bcfd52a.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.522ebad20fa0808ac284.ttf",
+    "static/media/TitilliumWeb-Bold.ttf": "/static/media/TitilliumWeb-Bold.6d6124d11999b7ca6dea.ttf",
+    "static/media/logo.svg": "/static/media/logo.3b25268ddaab0a8113fb95c312253634.svg",
+    "static/media/kinetic.svg": "/static/media/kinetic.676bc33b28188c073fb691fb987e904d.svg",
     "index.html": "/index.html",
-    "static/css/main.59a5e434.chunk.css.map": "/static/css/main.59a5e434.chunk.css.map",
-    "static/js/2.2dc5b965.chunk.js.LICENSE.txt": "/static/js/2.2dc5b965.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/TitilliumWeb-Regular.522ebad2.ttf",
-    "static/media/getFetch.cjs": "/static/media/getFetch.582d29c4.cjs",
-    "static/media/kinetic.676bc33b.svg": "/static/media/kinetic.676bc33b.svg",
-    "static/media/logo.3b25268d.svg": "/static/media/logo.3b25268d.svg"
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.89a47623.css.map": "/static/css/main.89a47623.css.map",
+    "main.1e1a81f4.js.map": "/static/js/main.1e1a81f4.js.map",
+    "888.d6821cc2.chunk.js.map": "/static/js/888.d6821cc2.chunk.js.map",
+    "838.3391fd5d.chunk.js.map": "/static/js/838.3391fd5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.648af05e.js",
-    "static/js/2.2dc5b965.chunk.js",
-    "static/css/main.59a5e434.chunk.css",
-    "static/js/main.714e1180.chunk.js"
+    "static/css/main.89a47623.css",
+    "static/js/main.1e1a81f4.js"
   ]
 }
